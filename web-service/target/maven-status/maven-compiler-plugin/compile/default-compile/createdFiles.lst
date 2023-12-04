@@ -1,0 +1,9 @@
+com\example\webservice\repository\UserRepository.class
+com\example\webservice\model\exception\UserNotFoundException.class
+com\example\webservice\WebServiceApplication.class
+com\example\webservice\model\dto\UserDTO.class
+com\example\webservice\service\impl\UserServiceImpl.class
+com\example\webservice\data\Init.class
+com\example\webservice\model\MyUser.class
+com\example\webservice\service\UserService.class
+com\example\webservice\web\UserRestController.class
